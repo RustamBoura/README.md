@@ -21,7 +21,7 @@ These are some of the things I have experience working with:
 
 Projects:
 
-1. Snakes and Ladders game
+1. Snakes and Ladders game - 
 2. Quran
 3. Dall-E-Dazzle
 4. Not Done Yet
